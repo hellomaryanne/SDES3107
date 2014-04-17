@@ -166,6 +166,8 @@ String timestamp() {
 }
 
 
+//References:
+//Image: http://cindyloughridge.tumblr.com/
 
 
 

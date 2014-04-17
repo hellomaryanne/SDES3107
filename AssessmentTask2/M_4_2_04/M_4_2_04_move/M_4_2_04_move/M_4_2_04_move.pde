@@ -120,12 +120,6 @@ void initGrid() {
 
 
 void keyPressed() {
-  if (key=='r' || key=='R') {
-    initGrid();
-  }
-  
-
-
   if (key=='s' || key=='S') {
     saveOneFrame = true;
   }
@@ -161,4 +155,5 @@ String timestamp() {
 
 //References:
 //http://www.processing.org/examples/objects.html
+//Image: http://cindyloughridge.tumblr.com/
 

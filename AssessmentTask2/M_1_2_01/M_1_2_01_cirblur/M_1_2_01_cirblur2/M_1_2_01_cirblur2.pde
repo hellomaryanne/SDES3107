@@ -54,3 +54,4 @@ String timestamp() {
 //References:
 //https://www.processing.org/examples/softbody.html
 //http://www.processing.org/examples/pattern.html
+//Image: http://cindyloughridge.tumblr.com/

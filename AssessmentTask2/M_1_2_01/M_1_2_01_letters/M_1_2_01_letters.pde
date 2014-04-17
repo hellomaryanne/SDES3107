@@ -99,5 +99,6 @@ String timestamp() {
 
 //Reference:
 //http://www.processing.org/reference/text_.html
+//Image: http://cindyloughridge.tumblr.com/
 
 

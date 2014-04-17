@@ -88,3 +88,4 @@ String timestamp() {
 //References:
 //http://processing.org/discourse/beta/num_1231088194.html
 //http://www.openprocessing.org/sketch/50505
+//Image:http://cindyloughridge.tumblr.com/

@@ -180,7 +180,7 @@ String timestamp() {
 
 
  //Reference: http://www.openprocessing.org/sketch/69913 & http://forum.processing.org/one/topic/color-change-background-with-click.html
-
+//Image: http://cindyloughridge.tumblr.com/
 
 
 
